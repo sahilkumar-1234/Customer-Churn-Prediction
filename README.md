@@ -10,10 +10,8 @@ This project aims to predict customer churn — whether a customer is likely to 
 
 Customer-Churn-Prediction/
 │
-├── churn\_data.csv                  # Dataset containing customer info
 ├── Customer\_Churn\_Prediction.ipynb # Main Jupyter Notebook
 ├── README.md                       # Project documentation
-└── requirements.txt                # Python dependencies (optional)
 
 ````
 
